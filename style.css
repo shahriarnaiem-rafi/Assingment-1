@@ -111,6 +111,7 @@
     display: flex;
     column-gap: 40px;
     padding: 10px;
+    margin-bottom: 50px;
 }
 .new-card-heading{
     color: #0D1321;
@@ -142,4 +143,43 @@
     background-color: rgb(250, 249, 207);
     padding: 10px 20px;
     border-radius: 10px;
+}
+.main-footer{
+    background-image: url(assets/handshake.png);
+    height: 300px;
+    border-radius: 15px;
+    background-size: cover;
+    
+}
+.main-footer-1{
+    padding: 20px 20px;
+}
+.main-footer-heading{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.main-footer-description{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+}
+.input{
+    text-align: center;
+}
+.main-footer-input{
+    text-align: center;
+    width: 50%;
+    padding: 10px 20px;
+
+    border-radius: 10px;
+    border: none;
+}
+.submit-btn{
+    padding: 10px 25px;
+
+    border-radius: 10px;
+    border: none;
 }
