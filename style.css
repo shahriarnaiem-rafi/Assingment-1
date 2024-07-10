@@ -117,9 +117,10 @@ body{
 /* new card */
 .new-card{
     display: flex;
-    column-gap: 40px;
+    column-gap: 30px;
     padding: 10px;
     margin-bottom: 50px;
+
 }
 .new-card-heading{
     color: #0D1321;
@@ -139,17 +140,17 @@ body{
 
 }
 .new-card-1{
-    background-color: rgb(253, 230, 238);
+    background-color: rgb(253, 245, 248);
     padding: 10px 20px;
     border-radius: 10px;
 }
 .new-card-2{
-    background-color: rgb(234, 218, 250);
+    background-color: rgb(251, 247, 255);
     padding: 10px 20px;
     border-radius: 10px;
 }
 .new-card-3{
-    background-color: rgb(250, 249, 207);
+    background-color: rgb(245, 244, 232);
     padding: 10px 20px;
     border-radius: 10px;
 }
