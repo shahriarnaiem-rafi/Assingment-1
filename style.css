@@ -1,5 +1,4 @@
-
-  body{
+body{
     font-family: "Azeret Mono", monospace;
 
   }
@@ -45,7 +44,7 @@
     border-radius: 8px;
     border: none;
     cursor: pointer;
-
+    text-decoration: none;
 }
 /* Card section */
 .card-0-heading{
@@ -70,9 +69,14 @@
 }
 .card-btn{
   color: #0D1321;
-  padding: 10px 20px;
-  margin-left: 0px;
+  padding: 10px 30px;
+  background-color: transparent;
   cursor: pointer;
+  border: 1px solid black;
+  font-size: 18px;
+  font-weight: 600;
+
+
 }
 .main-card{
     width: 700px;
